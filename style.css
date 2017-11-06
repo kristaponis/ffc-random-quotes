@@ -1,0 +1,21 @@
+body {
+    background-color: #f6f6f6;
+}
+  
+.box {
+    margin: 50px auto;
+    padding: 30px;
+    width: 550px;
+    height: 350px;
+    background-color: #b6b6b6;
+    border-radius: 10px;
+}
+  
+h4 {
+    margin-bottom: 50px;
+}
+  
+.btn {
+    border: 2px #222222 solid;
+    background-color: #b6b6b6;
+}
